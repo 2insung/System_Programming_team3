@@ -20,8 +20,10 @@ PM: 정인준
 
 
 0. Git 설치  https://git-scm.com/downloads
+ 
+1. Git bash 나 Git CMD 사용 
 
-1. Git Clone
+2. Git Clone -> 자신이 작업하고 싶은 폴더를 만들어서 cmd로 cd {폴더} 후 명령어 입력
 ```
 $git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```
