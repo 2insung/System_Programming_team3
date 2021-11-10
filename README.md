@@ -21,5 +21,8 @@ PM: 정인준
 
 0. Git 설치  https://git-scm.com/downloads
 
-
+1. Git Clone
+```
+$git clone https://github.com/Freetobewhatever/System_Programming_team3
+```
 
