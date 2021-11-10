@@ -28,6 +28,8 @@ PM: 정인준
 $git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```
 
+3. 명령어
+
 - 처음에 세팅할 때
 
 ```cpp
