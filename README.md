@@ -31,9 +31,10 @@ $git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```cpp
 git clone {주소}
 ```
-
+```
+git branch {하고 싶은 이름}
 ```cpp
-git checkout {branch name}
+git checkout {자신의 branch name}
 ```
 
 - 수정 후 올릴 때
