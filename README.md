@@ -7,7 +7,7 @@
 
 
 
->참가자
+## 참가자
 ```
 PM: 정인준
 아키텍트: 박경모
@@ -15,7 +15,7 @@ PM: 정인준
 운영자: 이인성, 윤서영
 ```
 
->Github 사용법
+## Github 사용법
 0. Git 설치  https://git-scm.com/downloads
 
 1. Github 저장소 clone 하기
