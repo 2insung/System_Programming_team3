@@ -33,6 +33,7 @@ git clone {주소}
 ```
 ```
 git branch {하고 싶은 이름}
+```
 ```cpp
 git checkout {자신의 branch name}
 ```
