@@ -34,6 +34,7 @@ $git clone https://github.com/Freetobewhatever/System_Programming_team3
 git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```
 ```
+git branch   --> 현재 branch들 보기
 git branch {하고 싶은 이름}
 ```
 ```cpp
