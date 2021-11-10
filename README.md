@@ -26,3 +26,30 @@ PM: 정인준
 $git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```
 
+- 처음에 세팅할 때
+
+```cpp
+git clone {주소}
+```
+
+```cpp
+git checkout {branch name}
+```
+
+- 수정 후 올릴 때
+
+```cpp
+git add .
+git commit -m {"text"}
+git push origin {branch name}
+```
+
+- main을 내 branch로 받을 때
+
+```cpp
+git pull origin {main branch}
+```
+
+- 병합 요청하기
+
+[github.com](http://github.com) → repository → pull request → new pull request → ...
