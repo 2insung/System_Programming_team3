@@ -16,10 +16,10 @@ PM: 정인준
 ```
 
 ## Github 사용법
+
+
+
 0. Git 설치  https://git-scm.com/downloads
 
-1. Github 저장소 clone 하기
-```
-$git clone 
-```
+
 
