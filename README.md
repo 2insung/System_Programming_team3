@@ -31,7 +31,7 @@ $git clone https://github.com/Freetobewhatever/System_Programming_team3
 - 처음에 세팅할 때
 
 ```cpp
-git clone {주소}
+git clone https://github.com/Freetobewhatever/System_Programming_team3
 ```
 ```
 git branch {하고 싶은 이름}
