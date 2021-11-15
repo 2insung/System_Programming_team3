@@ -3,7 +3,7 @@
 -------------------
 >Github Repo
 
-<https://github.com/Freetobewhatever/System_Programming_team3.git>
+<https://github.com/2insung/System_Programming_team3.git>
 
 
 
@@ -25,7 +25,7 @@ PM: 정인준
 
 2. Git Clone -> 자신이 작업하고 싶은 폴더를 만들어서 cmd로 cd {폴더} 후 명령어 입력
 ```
-$git clone https://github.com/Freetobewhatever/System_Programming_team3
+$git clone https://github.com/2insung/System_Programming_team3
 ```
 
 3. 명령어
@@ -33,7 +33,7 @@ $git clone https://github.com/Freetobewhatever/System_Programming_team3
 - 처음에 세팅할 때
 
 ```cpp
-git clone https://github.com/Freetobewhatever/System_Programming_team3
+$git clone https://github.com/2insung/System_Programming_team3
 ```
 ```
 git branch   --> 현재 branch들 보기
